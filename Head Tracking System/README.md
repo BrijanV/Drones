@@ -14,6 +14,11 @@
 
 - Reduces hardware complexity and increases system reliability by combining motion sensing, control, and communication in a compact, modular unit.
 
+## Videos
+
+https://github.com/user-attachments/assets/ea1aa167-7a0f-436b-bc8a-3b0dc6107c4c
+
+
 
 ## Smart Battery Monitoring System
 
@@ -40,5 +45,7 @@
 - Reduces unnecessary power draw by implementing hibernation, ensuring the monitor doesn’t drain the battery it monitors.
 
 - Ideal for drone makers and testers needing a low-cost, reliable, and low-power solution for tracking battery condition across test cycles.
+
+## Videos
 
 
