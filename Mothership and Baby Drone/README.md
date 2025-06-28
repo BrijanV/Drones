@@ -7,7 +7,17 @@
 
 # Videos
 
-- Please check the video folder for the demonstration. Due to file size restrictions, the video could not be embedded directly.
+- Mission and Vision
+
+https://github.com/user-attachments/assets/4b0955d4-2f14-47d6-bc79-3ac805b2cd7e
+
+- Mothership
+
+https://github.com/user-attachments/assets/4f8f060a-d8fd-48d7-8569-ed4e6592f1a0
+
+- Baby Drone
+
+https://github.com/user-attachments/assets/bc909fe7-d241-4077-9070-04b63f7b2d5b
 
 
 
