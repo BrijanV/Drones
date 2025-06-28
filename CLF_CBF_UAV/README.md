@@ -24,8 +24,17 @@
 
 - Static Obstacles
 
+https://github.com/user-attachments/assets/f6c928bb-95d2-41d3-b214-adb14c701bdf
+
+https://github.com/user-attachments/assets/17196ce4-4b6c-4ddc-bad2-33c384c8936a
 
 - Dynamic Obstacles
+
+https://github.com/user-attachments/assets/361192c8-b79c-41b1-a371-660203bb52d6
+
+https://github.com/user-attachments/assets/a8901cde-7407-46c3-b71f-9ec6ff30126f
+
+
 
 
 
