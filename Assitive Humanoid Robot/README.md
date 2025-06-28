@@ -23,12 +23,15 @@
 ## Videos
 
 - Semi-Autonomous Cart with Joystick control
+
 https://github.com/user-attachments/assets/e63592d5-1b25-43e2-9d4e-b822621d0f65
 
 - Finley Swapping End-Effectors
+
 https://github.com/user-attachments/assets/1605ea7c-0b65-4669-bd96-7a1f71e24ae1
 
 - Ava Assistive Walk
+
 https://github.com/user-attachments/assets/1951c6c6-240e-44a5-b786-7f9fc626c156
 
 
