@@ -9,8 +9,6 @@
 
 - Developed custom firmware for real-time sensor data acquisition and diagnostics.
 
-- Developed custom firmware for real-time sensor data acquisition and diagnostics.
-
 - Helps ensure components are functionally verified before drone assembly, reducing costly - trial-and-error cycles.
 
 - Implemented evaluation matrix generation to compare sensor accuracy, drift, and noise performance.
@@ -25,16 +23,16 @@
 
 - Provided isolated power testing for ESCs and motors to ensure safe, repeatable experiments.
 
-- Empowers scalable testing—multiple sensors can be evaluated in a single pass.
+- Empowers scalable testing multiple sensors can be evaluated in a single pass.
 
-- Overall, it forms a critical foundation for building robust, field-ready drone systems.
+- Overall, it forms a critical foundation for building robust, field ready drone systems.
 
 
 ## Dedicated IMU Evaluation Rig for Comparative Sensor Benchmarking
 
 - Developed a gyroscope testbench which supported evaluation of multiple IMUs (e.g., MPU9250, ICM20948) under varied dynamic conditions.
 
-- PCB was custom-designed to support flexible sensor interfacing and stable power delivery.
+- PCB was custom designed to support flexible sensor interfacing and stable power delivery.
 
 - Enables thorough sensor benchmarking to choose the most reliable and accurate IMUs for flight.
 
@@ -48,7 +46,7 @@
 
 
 
-## Application-Tuned FPV Flight Controller with Custom Hardware and Bare-Metal Firmware
+## Application Tuned FPV Flight Controller with Custom Hardware and Bare-Metal Firmware
 
 - Built a custom embedded firmware for STM32 microcontroller to achieve complete control over drone behavior and real-time data handling.
 
@@ -62,6 +60,20 @@
 
 - Streamed video frames from an onboard camera to the GUI, providing FPV (First Person View) and vision debugging during development.
 
-- Logged and visualized flight data and system performance metrics, helping in post-flight analysis and diagnostics.
+- Logged and visualized flight data and system performance metrics, helping in post flight analysis and diagnostics.
 
 - The system significantly improves development speed, flight safety, and adaptability essential for R&D, testing, and real-world drone deployments.
+
+## Videos
+
+- Custom built FPV drone
+
+https://github.com/user-attachments/assets/1b81fff7-24f1-4e53-a710-8f4926e1616d
+
+- PID Tuning FPV drone
+
+https://github.com/user-attachments/assets/cf6698e2-1fdc-4655-a9ad-254585a8422c
+
+
+
+
