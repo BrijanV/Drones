@@ -5,7 +5,9 @@
 - My primary role involved developing and integrating perception, navigation, and mapping systems on the drone, enabling it to autonomously detect and track military assets using onboard AI models.
 
 
+# Videos
 
+- Please check the video folder for the demonstration. Due to file size restrictions, the video could not be embedded directly.
 
 
 
