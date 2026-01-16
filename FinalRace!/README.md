@@ -91,6 +91,11 @@ The complete technical report including mathematical formulations, system archit
 ---
 ## Videos
 
-<video controls src="./Video1.mp4" title="Title"></video>
 
-<video controls src="./Video2.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/dcb25a37-3ac4-4cce-b6d2-ee62795b16ba
+
+
+https://github.com/user-attachments/assets/3dd9d27c-bb5d-40e4-b0c4-61c428a1405a
+
+
+
